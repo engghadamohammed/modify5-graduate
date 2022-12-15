@@ -1,0 +1,20 @@
+.Add_photo{
+    background-color: rgba(248, 248, 248, 0.981);
+}
+.main{
+    position: relative;
+  
+
+}
+.Adddata{
+    
+    padding: 20px;
+    position: relative;
+}
+.header_info{
+   
+    color: rgb(98, 216, 112);
+    font-weight: bolder;
+    font-style: italic;
+    
+}

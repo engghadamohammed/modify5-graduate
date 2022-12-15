@@ -1,0 +1,15 @@
+.card-body h5{
+  font-weight: 600;
+  font-style: italic;
+  color:rgb(80, 229, 43) ;
+}
+.card-body a{
+    width: 100px;
+    height: 45px;
+    border-radius: 15px;
+   background-color:rgb(80, 229, 43) ;
+    font-weight: 700;
+    font-style: italic;
+  text-align: center;
+    
+}

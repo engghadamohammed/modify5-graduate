@@ -1,0 +1,63 @@
+ /* {
+    background-image: url("../../assets/images/png_teacher_39964.png");
+    background-repeat: no-repeat;
+
+    background-position: left top;
+    background-attachment: fixed;
+   
+
+
+
+} */
+
+.container {
+    position: relative;
+}
+
+.login-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 50%;
+    height: 50%;
+    margin-top: 14%;
+
+    font-weight: 500;
+
+}
+
+.send {
+
+    border-radius: 7px;
+
+    width: 50%;
+    border: 2px solid rgb(9, 9, 9);
+    font-weight: 600;
+    box-shadow: 1px 3px 5px rgb(45, 45, 45);
+    font-style: italic;
+    background-color: black;
+    color: white;
+
+}
+
+.send:hover {
+    background-color: transparent;
+    color: black;
+}
+
+#error {
+    color: red;
+    position: absolute;
+    font-weight: 500;
+    text-align: center;
+    font-size: large;
+    left: 50%;
+    height: 50px;
+    top: 5%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+
+
+}
